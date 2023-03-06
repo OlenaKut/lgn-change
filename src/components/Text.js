@@ -6,6 +6,7 @@ const Text = () => {
   return (
     <div>
       <h1>{t("text")}</h1>
+      <p>{t("news")}</p>
     </div>
   );
 };
